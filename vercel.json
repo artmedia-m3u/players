@@ -6,6 +6,10 @@
   },
   "routes": [
     {
+      "src": "/art_epg.xml",
+      "dest": "/art_epg.xml"
+    },
+    {
       "src": "/(.*)",
       "dest": "api/index.php"
     }
