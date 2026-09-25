@@ -2,46 +2,46 @@
 #EXTINF:-1 tvg-id="809" tvg-name="INFO KANAL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/809.png" group-title="SRPSKI",INFO KANAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/463?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="943" tvg-name="RTS 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/943.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rts1_RAID/index-${start}-${duration}.m3u8?ch_id=943&token=33b2594e35e16e9d6c16e0fe04504bec",RTS 1
+#EXTINF:-1 tvg-id="943" tvg-name="RTS 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/943.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rts1_RAID/index-${start}-${duration}.m3u8?ch_id=943&token=c5b1d8e15892f2a551600210fc7567e3",RTS 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/3?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="663" tvg-name="RTS 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/663.png" group-title="SRPSKI",RTS 2
+#EXTINF:-1 tvg-id="663" tvg-name="RTS 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/663.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rts2_RAID/index-${start}-${duration}.m3u8?ch_id=663&token=c2dfacb2785f2ff2717962eea7476bca",RTS 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/2?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1484" tvg-name="RTS 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1484.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rts3/index-${start}-${duration}.m3u8?ch_id=1484&token=7fd253a961feacce22cfd9d4c1980727",RTS 3
+#EXTINF:-1 tvg-id="1484" tvg-name="RTS 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1484.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rts3/index-${start}-${duration}.m3u8?ch_id=1484&token=e8ecf1c55b3f9fcce46425ea5b9be401",RTS 3
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/21?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="855" tvg-name="RTS SVET" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtshd.png" group-title="SRPSKI",RTS SVET
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/182?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="638" tvg-name="PRVATV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/prva.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvatv_RAID/index-${start}-${duration}.m3u8?ch_id=638&token=80a323d3dd789d4d9668a57446aee6d2",PRVATV
+#EXTINF:-1 tvg-id="638" tvg-name="PRVATV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/prva.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvatv_RAID/index-${start}-${duration}.m3u8?ch_id=638&token=3b0a3eadb1be2d7d3335c92573b77789",PRVATV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/10?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="771" tvg-name="PINK TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/771.png" group-title="SRPSKI",PINK TV
+#EXTINF:-1 tvg-id="771" tvg-name="PINK TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/771.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pinktv/index-${start}-${duration}.m3u8?ch_id=771&token=b904266e87b6313f080cf2a4e3878c61",PINK TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/12?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="981" tvg-name="UNA TV SRBIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/981.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Una_RAID/index-${start}-${duration}.m3u8?ch_id=981&token=e302d19e590b96c2f0ee4bc1fb6d231b",UNA TV SRBIJA
+#EXTINF:-1 tvg-id="981" tvg-name="UNA TV SRBIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/981.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Una_RAID/index-${start}-${duration}.m3u8?ch_id=981&token=24282917c35cfa23fb3a14970f39ce07",UNA TV SRBIJA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1652?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="690" tvg-name="N1 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/690.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_n1_srb_art5/index-${start}-${duration}.m3u8?ch_id=690&token=b40462172073e05c1dd9f76d2bce685f",N1 TV
+#EXTINF:-1 tvg-id="690" tvg-name="N1 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/690.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_n1_srb_art5/index-${start}-${duration}.m3u8?ch_id=690&token=685f767ba74f5d39fde742abfa75bcd9",N1 TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/271?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1839" tvg-name="KURIR TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1839.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_kurirtv/index-${start}-${duration}.m3u8?ch_id=1839&token=27260d9ec178f5fbbfb9c52e0fd38cfc",KURIR TV HD
+#EXTINF:-1 tvg-id="1839" tvg-name="KURIR TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1839.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_kurirtv/index-${start}-${duration}.m3u8?ch_id=1839&token=eb0d54cc9b4015d084c7c6991c8d1f39",KURIR TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1786?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1844" tvg-name="TANJUG TV HD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1844.png" group-title="SRPSKI",TANJUG TV HD *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1794?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1871" tvg-name="BLIC TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1871.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_Blic_TV/index-${start}-${duration}.m3u8?ch_id=1871&token=90cfabd56def1b322d34b932058a84c4",BLIC TV HD
+#EXTINF:-1 tvg-id="1871" tvg-name="BLIC TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1871.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_Blic_TV/index-${start}-${duration}.m3u8?ch_id=1871&token=02d6b302523a2c02946e8262cb16e09f",BLIC TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1921?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1509" tvg-name="TV K1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1509.png" group-title="SRPSKI",TV K1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/680?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="750" tvg-name="INSAJDER TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/750.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_insajder_RAID/index-${start}-${duration}.m3u8?ch_id=750&token=f9a09f2c94f6e1a9ac6c78153a31e03b",INSAJDER TV
+#EXTINF:-1 tvg-id="750" tvg-name="INSAJDER TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/750.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_insajder_RAID/index-${start}-${duration}.m3u8?ch_id=750&token=e57fe487d526eaedfcef77cee4705f9d",INSAJDER TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/153?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1909" tvg-name="INFORMER TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1909.jpg" group-title="SRPSKI",INFORMER TV HD
+#EXTINF:-1 tvg-id="1909" tvg-name="INFORMER TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1909.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_Informer_RAID/index-${start}-${duration}.m3u8?ch_id=1909&token=cfa683299f4cbea3a28699a0eb72c5a0",INFORMER TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1940?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="897" tvg-name="EURONEWS SRBIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/897.jpg" group-title="SRPSKI",EURONEWS SRBIJA
@@ -53,7 +53,7 @@ http://auth.ddstream.info/validation/1750?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2107" tvg-name="NEWSMAX BALKAN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2107.png" group-title="SRPSKI",NEWSMAX BALKAN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1751?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="907" tvg-name="B92" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/907.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_b92_RAID/index-${start}-${duration}.m3u8?ch_id=907&token=7f666cf4f02a3e8869d091e0a0963b2e",B92
+#EXTINF:-1 tvg-id="907" tvg-name="B92" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/907.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_b92_RAID/index-${start}-${duration}.m3u8?ch_id=907&token=2f7a61d7a89c243aeba108372e48edda",B92
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/24?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1138" tvg-name="NOVA TV S" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1138.png" group-title="SRPSKI",NOVA TV S
@@ -62,43 +62,43 @@ http://auth.ddstream.info/validation/1386?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1647" tvg-name="NOVA TV S." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1647.png" group-title="SRPSKI",NOVA TV S.
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/677?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="911" tvg-name="REDTV HEVC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/911.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_redtv/index-${start}-${duration}.m3u8?ch_id=911&token=42099f7f36de5409816b9b4735df9457",REDTV HEVC
+#EXTINF:-1 tvg-id="911" tvg-name="REDTV HEVC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/911.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_redtv/index-${start}-${duration}.m3u8?ch_id=911&token=4fc7f703c860816856e59c477cecb775",REDTV HEVC
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1416?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2051" tvg-name="HYPE TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2051.png" group-title="SRPSKI",HYPE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1536?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="651" tvg-name="PRVA PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/prvaplus.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvaplus_RAID/index-${start}-${duration}.m3u8?ch_id=651&token=d19fe3c2f05dbed1282cc00945f83f14",PRVA PLUS
+#EXTINF:-1 tvg-id="651" tvg-name="PRVA PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/prvaplus.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvaplus_RAID/index-${start}-${duration}.m3u8?ch_id=651&token=3a2e08c0f50d4569d21f606e12217915",PRVA PLUS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/149?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1216" tvg-name="PRVA MAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1216.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvamax_RAID/index-${start}-${duration}.m3u8?ch_id=1216&token=841d354fa876357211d3eef65d4a798c",PRVA MAX
+#EXTINF:-1 tvg-id="1216" tvg-name="PRVA MAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1216.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvamax_RAID/index-${start}-${duration}.m3u8?ch_id=1216&token=2e2a5fb57f27278d2dbc74444fa615a6",PRVA MAX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/511?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1566" tvg-name="PRVA WORLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1566.png" group-title="SRPSKI",PRVA WORLD
+#EXTINF:-1 tvg-id="1566" tvg-name="PRVA WORLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1566.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_prvaworld_RAID/index-${start}-${duration}.m3u8?ch_id=1566&token=b6343aba122f4c08e9b126f7994f4a97",PRVA WORLD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1260?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="980" tvg-name="PRVA LIFE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/980.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_life_art5/index-${start}-${duration}.m3u8?ch_id=980&token=6bb0d88ab5394403a0f07b272ac5953e",PRVA LIFE
+#EXTINF:-1 tvg-id="980" tvg-name="PRVA LIFE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/980.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_life_art5/index-${start}-${duration}.m3u8?ch_id=980&token=08245982096c661ea990599285f3c541",PRVA LIFE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1655?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="978" tvg-name="PRVA KICK" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/978.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_kick_art5/index-${start}-${duration}.m3u8?ch_id=978&token=2a80c20a3bfff3cbd9b1ce908b9a6967",PRVA KICK
+#EXTINF:-1 tvg-id="978" tvg-name="PRVA KICK" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/978.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_kick_art5/index-${start}-${duration}.m3u8?ch_id=978&token=1b9cf590c43da2e098fc238cc4d1f75e",PRVA KICK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1653?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="979" tvg-name="PRVA FILES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/979.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_files_art5/index-${start}-${duration}.m3u8?ch_id=979&token=75c50dc378d6301721fd9b3ec24255d6",PRVA FILES
+#EXTINF:-1 tvg-id="979" tvg-name="PRVA FILES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/979.jpg" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_prva_files_art5/index-${start}-${duration}.m3u8?ch_id=979&token=c4b95b6e6b4490823bf8880f3534bbc9",PRVA FILES
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1654?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="608" tvg-name="HAPPY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/608.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_happy_RAID/index-${start}-${duration}.m3u8?ch_id=608&token=0b1c9d1e1596935a296cbc17b471304c",HAPPY
+#EXTINF:-1 tvg-id="608" tvg-name="HAPPY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/608.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_happy_RAID/index-${start}-${duration}.m3u8?ch_id=608&token=e93f16c13f481e98d9d12a2b59ff5095",HAPPY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/148?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1281" tvg-name="HAPPY REALITY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1281.jpg" group-title="SRPSKI",HAPPY REALITY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1126?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="826" tvg-name="RTRS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtrs.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTRS_RAID/index-${start}-${duration}.m3u8?ch_id=826&token=b55fefbd5fd54c710e19d8a8bb0fea4e",RTRS
+#EXTINF:-1 tvg-id="826" tvg-name="RTRS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtrs.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTRS_RAID/index-${start}-${duration}.m3u8?ch_id=826&token=bddd0ecff947098b58ca7b1623452a29",RTRS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/109?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="615" tvg-name="RTV 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtv1.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTV1_RAID/index-${start}-${duration}.m3u8?ch_id=615&token=3a5b19c3cb387b6c5faacbaf5ed6c194",RTV 1
+#EXTINF:-1 tvg-id="615" tvg-name="RTV 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtv1.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTV1_RAID/index-${start}-${duration}.m3u8?ch_id=615&token=e0c5801634d3ffe7eeaa34d97e588c56",RTV 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/178?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="689" tvg-name="RTV 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtv1.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTV2_RAID/index-${start}-${duration}.m3u8?ch_id=689&token=cb25a8d919ea156a867f6833eefcf51f",RTV 2
+#EXTINF:-1 tvg-id="689" tvg-name="RTV 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtv1.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTV2_RAID/index-${start}-${duration}.m3u8?ch_id=689&token=f1179edc128f662cc4ef05e375a483ce",RTV 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/399?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1210" tvg-name="STUDIO B" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1210.png" group-title="SRPSKI",STUDIO B
@@ -107,13 +107,13 @@ http://auth.ddstream.info/validation/942?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="668" tvg-name="KCN 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/kcn1.png" group-title="SRPSKI",KCN 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/184?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1495" tvg-name="RTS DRAMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1495.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTS_drama_RAID/index-${start}-${duration}.m3u8?ch_id=1495&token=c87726bf22aed5d1a328ea731356f5ef",RTS DRAMA
+#EXTINF:-1 tvg-id="1495" tvg-name="RTS DRAMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1495.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTS_drama_RAID/index-${start}-${duration}.m3u8?ch_id=1495&token=0adb730cdec2f798e3ec304ba61bb881",RTS DRAMA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1437?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1319" tvg-name="RTS TREZOR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1319.gif" group-title="SRPSKI",RTS TREZOR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/62?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1493" tvg-name="RTS ZIVOT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1493.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTS_zivot/index-${start}-${duration}.m3u8?ch_id=1493&token=0e291f596bb3982fece386ebf901ac19",RTS ZIVOT
+#EXTINF:-1 tvg-id="1493" tvg-name="RTS ZIVOT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1493.png" group-title="SRPSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTS_zivot/index-${start}-${duration}.m3u8?ch_id=1493&token=f6be5ed450fab5f8aded659c188dda90",RTS ZIVOT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1120?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1277" tvg-name="RTS KOLO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1277.gif" group-title="SRPSKI",RTS KOLO
@@ -173,64 +173,64 @@ http://auth.ddstream.info/validation/1620?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1857" tvg-name="BALKAN TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1857.png" group-title="SRPSKI",BALKAN TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1915?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1308" tvg-name="HRT 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1308.jpg" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_hrt1_RAID/index-${start}-${duration}.m3u8?ch_id=1308&token=4dac5832699d2b556707ceb1c72dcef8",HRT 1
+#EXTINF:-1 tvg-id="1308" tvg-name="HRT 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1308.jpg" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_hrt1_RAID/index-${start}-${duration}.m3u8?ch_id=1308&token=abc51a5c006c79d7de9b1d5c9b66da83",HRT 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/65?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="634" tvg-name="HRT 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/634.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_hrt2_RAID/index-${start}-${duration}.m3u8?ch_id=634&token=0474186ec0d9f5ac0c3de398a69381b8",HRT 2
+#EXTINF:-1 tvg-id="634" tvg-name="HRT 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/634.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_hrt2_RAID/index-${start}-${duration}.m3u8?ch_id=634&token=7ff36385edee7f36fa9055156147ce3a",HRT 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/66?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1674" tvg-name="HRT 2 HD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1674.png" group-title="HRVATSKI",HRT 2 HD *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1583?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="674" tvg-name="HRT 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hrt3.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HRT3_RAID/index-${start}-${duration}.m3u8?ch_id=674&token=33e961e24ccbfc0a80ee78d9830722bc",HRT 3
+#EXTINF:-1 tvg-id="674" tvg-name="HRT 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hrt3.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HRT3_RAID/index-${start}-${duration}.m3u8?ch_id=674&token=e203f676dc5207282753508c895a25f8",HRT 3
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/145?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="856" tvg-name="HRT 4" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hrt4.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hrt4_RAID/index-${start}-${duration}.m3u8?ch_id=856&token=8eb7e687e2fbcd590a9936f375c42b40",HRT 4
+#EXTINF:-1 tvg-id="856" tvg-name="HRT 4" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hrt4.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hrt4_RAID/index-${start}-${duration}.m3u8?ch_id=856&token=456a99dd7f5db16b108a86ea4043cff4",HRT 4
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/146?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1651" tvg-name="HRT 5 INT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1651.png" group-title="HRVATSKI",HRT 5 INT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1390?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1157" tvg-name="NOVA TV FULLHD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1157.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_novatv_RAID/index-${start}-${duration}.m3u8?ch_id=1157&token=99458ffc344ce2f3f5ca43707ef9820b",NOVA TV FULLHD *HEVC*
+#EXTINF:-1 tvg-id="1157" tvg-name="NOVA TV FULLHD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1157.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_novatv_RAID/index-${start}-${duration}.m3u8?ch_id=1157&token=4044c70b558e7d727f04629bda584997",NOVA TV FULLHD *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/990?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="751" tvg-name="NOVA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/novatv.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_novatv_RAID/index-${start}-${duration}.m3u8?ch_id=751&token=0fc925e6f37552e8f9ec8d6d8c2cf3e0",NOVA TV
+#EXTINF:-1 tvg-id="751" tvg-name="NOVA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/novatv.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_novatv_RAID/index-${start}-${duration}.m3u8?ch_id=751&token=4a1b66864df967b453e72bc53d92328e",NOVA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/64?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1113" tvg-name="RTL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1113.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl_RAID/index-${start}-${duration}.m3u8?ch_id=1113&token=6b26bc96ccb230539a531bcef42cdea3",RTL
+#EXTINF:-1 tvg-id="1113" tvg-name="RTL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1113.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl_RAID/index-${start}-${duration}.m3u8?ch_id=1113&token=31dd917d29835d119e19182793d218d8",RTL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/63?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="840" tvg-name="RTL 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtl2.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2_RAID/index-${start}-${duration}.m3u8?ch_id=840&token=3e679a3ba8081e38a94c32465e66a10f",RTL 2
+#EXTINF:-1 tvg-id="840" tvg-name="RTL 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtl2.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2_RAID/index-${start}-${duration}.m3u8?ch_id=840&token=a719a09624c47c3e6e11d45b639dd4d7",RTL 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/67?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="811" tvg-name="DOMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/doma.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_doma_RAID/index-${start}-${duration}.m3u8?ch_id=811&token=d3748d708931e78745129a423f4471eb",DOMA
+#EXTINF:-1 tvg-id="811" tvg-name="DOMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/doma.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_doma_RAID/index-${start}-${duration}.m3u8?ch_id=811&token=a149d1732dbac035ec832764de56adbe",DOMA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/68?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1809" tvg-name="RTL ADRIA *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1809.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rtladria/index-${start}-${duration}.m3u8?ch_id=1809&token=123e0da49dccaad45a14ac45e73f0b5d",RTL ADRIA *HEVC*
+#EXTINF:-1 tvg-id="1809" tvg-name="RTL ADRIA *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1809.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rtladria/index-${start}-${duration}.m3u8?ch_id=1809&token=af3cb838de143358eab87f257d42824e",RTL ADRIA *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1785?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="770" tvg-name="RTL LIVING" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlliving.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLliving_RAID/index-${start}-${duration}.m3u8?ch_id=770&token=5a192c1d39551c471e0bfbc7f52faa16",RTL LIVING
+#EXTINF:-1 tvg-id="770" tvg-name="RTL LIVING" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlliving.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLliving_RAID/index-${start}-${duration}.m3u8?ch_id=770&token=56c29db4681d8840e6d0ae93a5d84bbc",RTL LIVING
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/417?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="748" tvg-name="RTL PASSION " tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/748.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rtl_passion_art5_RAID/index-${start}-${duration}.m3u8?ch_id=748&token=524eac2d00e4b7ad168d00c899e86a3f",RTL PASSION 
+#EXTINF:-1 tvg-id="748" tvg-name="RTL PASSION " tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/748.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_rtl_passion_art5_RAID/index-${start}-${duration}.m3u8?ch_id=748&token=d3300c16e5faae2bed44376b7e7d6f68",RTL PASSION 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/420?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="758" tvg-name="RTL CRIME" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/758.gif" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLCrime_RAID/index-${start}-${duration}.m3u8?ch_id=758&token=b012a4b801ace9acdd565b05be0a2af9",RTL CRIME
+#EXTINF:-1 tvg-id="758" tvg-name="RTL CRIME" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/758.gif" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLCrime_RAID/index-${start}-${duration}.m3u8?ch_id=758&token=131f8386e5268e6171c4f44e4a35e97f",RTL CRIME
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/454?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1441" tvg-name="RTL CROATIA WORLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1441.png" group-title="HRVATSKI",RTL CROATIA WORLD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/353?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1535" tvg-name="LAUDATO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1535.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_laudato_RAID/index-${start}-${duration}.m3u8?ch_id=1535&token=db9dedd613b76ec40d54da772a61613d",LAUDATO TV
+#EXTINF:-1 tvg-id="1535" tvg-name="LAUDATO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1535.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_laudato_RAID/index-${start}-${duration}.m3u8?ch_id=1535&token=d89d2c2a8fb96ba4a9bdd8861a4efaf3",LAUDATO TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1231?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1010" tvg-name="N1 HRVATSKI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1010.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_n1cro/index-${start}-${duration}.m3u8?ch_id=1010&token=f6089fdd6e0fe2ec6af75e09288390d2",N1 HRVATSKI
+#EXTINF:-1 tvg-id="1010" tvg-name="N1 HRVATSKI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1010.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_n1cro/index-${start}-${duration}.m3u8?ch_id=1010&token=ae04ec03e0a840c0b8153b37130e5ec8",N1 HRVATSKI
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/853?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1291" tvg-name="OTVORENA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1291.png" group-title="HRVATSKI",OTVORENA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/668?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="709" tvg-name="KLASIK TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/klasik.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_klasik_art5_RAID/index-${start}-${duration}.m3u8?ch_id=709&token=8ddb2e27c252e0aef970127f2b987125",KLASIK TV
+#EXTINF:-1 tvg-id="709" tvg-name="KLASIK TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/klasik.png" group-title="HRVATSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_klasik_art5_RAID/index-${start}-${duration}.m3u8?ch_id=709&token=ca1a71ce5465e440d47a0b82c196e2ad",KLASIK TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/69?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="733" tvg-name="Z1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/z1.png" group-title="HRVATSKI",Z1
@@ -275,40 +275,40 @@ http://auth.ddstream.info/validation/1584?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1721" tvg-name="MEDJUGORJE TV INT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1721.png" group-title="HRVATSKI",MEDJUGORJE TV INT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1597?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1470" tvg-name="N1 BIH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1470.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_n1BiH_RAID/index-${start}-${duration}.m3u8?ch_id=1470&token=30d2f8773d49e0d26e0c407ffddf91bf",N1 BIH
+#EXTINF:-1 tvg-id="1470" tvg-name="N1 BIH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1470.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_n1BiH_RAID/index-${start}-${duration}.m3u8?ch_id=1470&token=0243c183f25ac6402349b660b62bde7e",N1 BIH
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/538?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1878" tvg-name="BHT 1  HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1878.png" group-title="BOSANSKI",BHT 1  HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1834?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="828" tvg-name="BHT 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/828.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_bht1_RAID/index-${start}-${duration}.m3u8?ch_id=828&token=92c783da4f4da3d86c223a6089de20f9",BHT 1
+#EXTINF:-1 tvg-id="828" tvg-name="BHT 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/828.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_bht1_RAID/index-${start}-${duration}.m3u8?ch_id=828&token=8597ded40b0ae5797e29a573f13dc666",BHT 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/479?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="736" tvg-name="FTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/ftv.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_ftv_RAID/index-${start}-${duration}.m3u8?ch_id=736&token=aecd9eb3c49e7d36fb798d6bf02902fd",FTV
+#EXTINF:-1 tvg-id="736" tvg-name="FTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/ftv.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_ftv_RAID/index-${start}-${duration}.m3u8?ch_id=736&token=dc7fac4314c6d63d0e898dc3f9f05b72",FTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/73?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="818" tvg-name="OBN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/818.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_obn_RAID/index-${start}-${duration}.m3u8?ch_id=818&token=16bbf026f11553cfc921f71c9b71c326",OBN
+#EXTINF:-1 tvg-id="818" tvg-name="OBN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/818.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_obn_RAID/index-${start}-${duration}.m3u8?ch_id=818&token=de2b9b8683b53f3c98965565a27772d9",OBN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/27?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="645" tvg-name="NOVA BH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/645.png" group-title="BOSANSKI",NOVA BH
+#EXTINF:-1 tvg-id="645" tvg-name="NOVA BH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/645.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_novabh_RAID/index-${start}-${duration}.m3u8?ch_id=645&token=92ecdc66ef3465fc5021274df4a87ddc",NOVA BH
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/78?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1169" tvg-name="PINK MEDIA BH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1169.png" group-title="BOSANSKI",PINK MEDIA BH
+#EXTINF:-1 tvg-id="1169" tvg-name="PINK MEDIA BH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1169.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_mediabih/index-${start}-${duration}.m3u8?ch_id=1169&token=da7d7a81d161007087a6b127e2e151d8",PINK MEDIA BH
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/895?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="846" tvg-name="HTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/846.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hayat_RAID/index-${start}-${duration}.m3u8?ch_id=846&token=abc874a3fb1ecf337b2d308d6cfd5a86",HTV
+#EXTINF:-1 tvg-id="846" tvg-name="HTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/846.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hayat_RAID/index-${start}-${duration}.m3u8?ch_id=846&token=03ea24f15e9913ce0574480a3239012e",HTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/147?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="700" tvg-name="HTV 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/700.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hayat_plus_RAID/index-${start}-${duration}.m3u8?ch_id=700&token=1e6e876cde6a809479065e579550df59",HTV 2
+#EXTINF:-1 tvg-id="700" tvg-name="HTV 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/700.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_hayat_plus_RAID/index-${start}-${duration}.m3u8?ch_id=700&token=52c31037902bfe83c5a47e536352aff5",HTV 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/110?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1000" tvg-name="RTRS." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1000.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTRS_RAID/index-${start}-${duration}.m3u8?ch_id=1000&token=2e3b9b42ac17499f32558cbb36dda5de",RTRS.
+#EXTINF:-1 tvg-id="1000" tvg-name="RTRS." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1000.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_RTRS_RAID/index-${start}-${duration}.m3u8?ch_id=1000&token=bcb3dabb33b9a229cd10e35c7db2cc9d",RTRS.
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/109?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="946" tvg-name="RTRS PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/946.png" group-title="BOSANSKI",RTRS PLUS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/549?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="734" tvg-name="BN TELEVIZIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/bntv.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_bntelevizija_RAID/index-${start}-${duration}.m3u8?ch_id=734&token=712ce477c766601717502d2e1ab6a75b",BN TELEVIZIJA
+#EXTINF:-1 tvg-id="734" tvg-name="BN TELEVIZIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/bntv.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_bntelevizija_RAID/index-${start}-${duration}.m3u8?ch_id=734&token=701a4aa1fcd288864d216fcf78b4c8ad",BN TELEVIZIJA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/76?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="910" tvg-name="BN TELEVIZIJA 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/910.png" group-title="BOSANSKI",BN TELEVIZIJA 2
@@ -317,7 +317,7 @@ http://auth.ddstream.info/validation/514?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1311" tvg-name="FACE TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1311.jpg" group-title="BOSANSKI",FACE TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1092?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="760" tvg-name="FACE TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/760.jpg" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_facetv_RAID/index-${start}-${duration}.m3u8?ch_id=760&token=527018aed85cc0b4e9d73a79a95d1dc2",FACE TV
+#EXTINF:-1 tvg-id="760" tvg-name="FACE TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/760.jpg" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_facetv_RAID/index-${start}-${duration}.m3u8?ch_id=760&token=6430440cd44fc3d6b531d655ed9a6d61",FACE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/75?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="629" tvg-name="O KANAL BIH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/629.png" group-title="BOSANSKI",O KANAL BIH
@@ -338,7 +338,7 @@ http://auth.ddstream.info/validation/536?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1859" tvg-name="NTV ARENA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1859.png" group-title="BOSANSKI",NTV ARENA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/685?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="626" tvg-name="ALTERNATIVNA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/626.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_alternativna_RAID/index-${start}-${duration}.m3u8?ch_id=626&token=4fbd0c17ca5a1799688c6bc2a6a02cbc",ALTERNATIVNA TV
+#EXTINF:-1 tvg-id="626" tvg-name="ALTERNATIVNA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/626.png" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_alternativna_RAID/index-${start}-${duration}.m3u8?ch_id=626&token=82befb00b815c98ec9b40a43a84c017f",ALTERNATIVNA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/403?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1068" tvg-name="NTV IC KAKANJ" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1068.png" group-title="BOSANSKI",NTV IC KAKANJ
@@ -386,7 +386,7 @@ http://auth.ddstream.info/validation/901?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="997" tvg-name="TV PODRINJE BH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/997.jpg" group-title="BOSANSKI",TV PODRINJE BH
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/253?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="753" tvg-name="MTV IGMAN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/753.jpg" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_mtv_igman_RAID/index-${start}-${duration}.m3u8?ch_id=753&token=4f24cfe224da2c93f39e6cdd4e9443a0",MTV IGMAN
+#EXTINF:-1 tvg-id="753" tvg-name="MTV IGMAN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/753.jpg" group-title="BOSANSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_mtv_igman_RAID/index-${start}-${duration}.m3u8?ch_id=753&token=4289dae3dd227f44dd96b0f1a3056741",MTV IGMAN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/272?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1611" tvg-name="SAUDI KSA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1611.png" group-title="BOSANSKI",SAUDI KSA
@@ -428,13 +428,13 @@ http://auth.ddstream.info/validation/444?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="606" tvg-name="TV HISTORIJA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/606.jpg" group-title="BOSANSKI",TV HISTORIJA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/112?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="702" tvg-name="SLO TV1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/702.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_slo1_RAID/index-${start}-${duration}.m3u8?ch_id=702&token=4834259da9b72bca26e26c4da7fe57e2",SLO TV1
+#EXTINF:-1 tvg-id="702" tvg-name="SLO TV1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/702.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_slo1_RAID/index-${start}-${duration}.m3u8?ch_id=702&token=a4b356a8adda2e7f66a3687cf0652cb2",SLO TV1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/307?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2021" tvg-name="SLO TV1 SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2021.png" group-title="SLOVENSKI",SLO TV1 SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1903?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="880" tvg-name="SLO TV2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/880.png" group-title="SLOVENSKI",SLO TV2
+#EXTINF:-1 tvg-id="880" tvg-name="SLO TV2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/880.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_slo2_RAID/index-${start}-${duration}.m3u8?ch_id=880&token=366681953537b353c9d4a92ab54747be",SLO TV2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/308?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2022" tvg-name="SLO TV2 SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2022.png" group-title="SLOVENSKI",SLO TV2 SD
@@ -446,16 +446,16 @@ http://auth.ddstream.info/validation/309?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2023" tvg-name="SLO TV3 SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2023.png" group-title="SLOVENSKI",SLO TV3 SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1901?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="675" tvg-name="KANAL A" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/kanala.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kanalA_RAID/index-${start}-${duration}.m3u8?ch_id=675&token=09262344e0ce6605c12285d3773925bd",KANAL A
+#EXTINF:-1 tvg-id="675" tvg-name="KANAL A" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/kanala.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kanalA_RAID/index-${start}-${duration}.m3u8?ch_id=675&token=74e68a2c11bc026a64cc0a94980722a3",KANAL A
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/282?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1901" tvg-name="KANAL A SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1901.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kanalA_RAID/index-${start}-${duration}.m3u8?ch_id=1901&token=e3215c604033397a3b21ceb17f25dc1c",KANAL A SD
+#EXTINF:-1 tvg-id="1901" tvg-name="KANAL A SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1901.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kanalA_RAID/index-${start}-${duration}.m3u8?ch_id=1901&token=2585f0b7113b98072c9ea043887b3cdb",KANAL A SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1899?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="861" tvg-name="PLANET TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/861.jpg" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_planetTV_RAID/index-${start}-${duration}.m3u8?ch_id=861&token=e166c2a1385ac0582f397e7d3ee8f981",PLANET TV
+#EXTINF:-1 tvg-id="861" tvg-name="PLANET TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/861.jpg" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_planetTV_RAID/index-${start}-${duration}.m3u8?ch_id=861&token=3f0aee319e0f74399b8936b3b9784f14",PLANET TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/310?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1902" tvg-name="PLANET TV SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1902.jpg" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_planetTV_RAID/index-${start}-${duration}.m3u8?ch_id=1902&token=685705b05c3e8422b5a5de18717603e6",PLANET TV SD
+#EXTINF:-1 tvg-id="1902" tvg-name="PLANET TV SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1902.jpg" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_planetTV_RAID/index-${start}-${duration}.m3u8?ch_id=1902&token=0416f44d9597bae06c17e2b5f3a24f17",PLANET TV SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1898?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1110" tvg-name="PLANET 2 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1110.png" group-title="SLOVENSKI",PLANET 2 TV
@@ -485,7 +485,7 @@ http://auth.ddstream.info/validation/911?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="653" tvg-name="TV3 MEDIAS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/tv3medias.png" group-title="SLOVENSKI",TV3 MEDIAS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/286?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="884" tvg-name="POP TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/poptv.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_poptv/index-${start}-${duration}.m3u8?ch_id=884&token=6486c5d86fa64102d187177b77e48c0f",POP TV HD
+#EXTINF:-1 tvg-id="884" tvg-name="POP TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/poptv.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_poptv/index-${start}-${duration}.m3u8?ch_id=884&token=78454b706b8404c3c1ffb7b38d2f64da",POP TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/269?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1061" tvg-name="POP TV SD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1061.png" group-title="SLOVENSKI",POP TV SD
@@ -497,7 +497,7 @@ http://auth.ddstream.info/validation/315?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="873" tvg-name="POP KINO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/popkino.png" group-title="SLOVENSKI",POP KINO
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/316?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="824" tvg-name="POP OTO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/popoto.png" group-title="SLOVENSKI",POP OTO
+#EXTINF:-1 tvg-id="824" tvg-name="POP OTO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/popoto.png" group-title="SLOVENSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pop_oto/index-${start}-${duration}.m3u8?ch_id=824&token=7bb1fc22e0205ebe96a47aaaa5cc1e7c",POP OTO
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/317?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2029" tvg-name="TV KOPER" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2029.jpg" group-title="SLOVENSKI",TV KOPER
@@ -542,7 +542,7 @@ http://auth.ddstream.info/validation/1399?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1720" tvg-name="SPORT KLUB 3 SLO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1720.png" group-title="SLOVENSKI",SPORT KLUB 3 SLO
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1592?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="801" tvg-name="MRT1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/mkhd1.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_mrt1_RAID/index-${start}-${duration}.m3u8?ch_id=801&token=3a408c38e653de4ccb055466f934868c",MRT1
+#EXTINF:-1 tvg-id="801" tvg-name="MRT1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/mkhd1.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_mrt1_RAID/index-${start}-${duration}.m3u8?ch_id=801&token=67354279812a74bce2701c5efed6710d",MRT1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/49?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1104" tvg-name="MRT 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1104.jpg" group-title="MAKEDONSKI",MRT 3
@@ -557,16 +557,16 @@ http://auth.ddstream.info/validation/688?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="830" tvg-name="MRT3-SOBRANJE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/830.jpg" group-title="MAKEDONSKI",MRT3-SOBRANJE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/495?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="859" tvg-name="SITEL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/859.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sitel_RAID/index-${start}-${duration}.m3u8?ch_id=859&token=b43a2888122db4e5eb6dc59e34ef9e83",SITEL
+#EXTINF:-1 tvg-id="859" tvg-name="SITEL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/859.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sitel_RAID/index-${start}-${duration}.m3u8?ch_id=859&token=9c62c6f97c072b152fe916ea9d23b455",SITEL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/50?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="894" tvg-name="KANAL 5 MK" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/kanal5.png" group-title="MAKEDONSKI",KANAL 5 MK
+#EXTINF:-1 tvg-id="894" tvg-name="KANAL 5 MK" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/kanal5.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_kanal5_RAID/index-${start}-${duration}.m3u8?ch_id=894&token=d882d5b517116cfedcb375bb10a52573",KANAL 5 MK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/48?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="790" tvg-name="TELMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/telma.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/Snimalica_Telma_HD/index-${start}-${duration}.m3u8?ch_id=790&token=a9258a7a9e3632b5b96e749ce6d05272",TELMA
+#EXTINF:-1 tvg-id="790" tvg-name="TELMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/telma.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/Snimalica_Telma_HD/index-${start}-${duration}.m3u8?ch_id=790&token=661333927be2257058a62fb5da303125",TELMA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/51?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="699" tvg-name="ALFA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/alfamk.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_alfa_tv_RAID/index-${start}-${duration}.m3u8?ch_id=699&token=120f71608132be1d042c43b1b3682375",ALFA TV
+#EXTINF:-1 tvg-id="699" tvg-name="ALFA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/alfamk.png" group-title="MAKEDONSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_alfa_tv_RAID/index-${start}-${duration}.m3u8?ch_id=699&token=1420f92d6d62d47b5a86045c5e8852c4",ALFA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/47?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="791" tvg-name="24 VESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/791.png" group-title="MAKEDONSKI",24 VESTI
@@ -593,10 +593,10 @@ http://auth.ddstream.info/validation/1226?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1526" tvg-name="SKY FOLK MK" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1526.png" group-title="MAKEDONSKI",SKY FOLK MK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/870?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="815" tvg-name="RTV CG 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/815.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTVCG1_RAID/index-${start}-${duration}.m3u8?ch_id=815&token=7590873c930d7e42e8f3c1c93f0bc235",RTV CG 1
+#EXTINF:-1 tvg-id="815" tvg-name="RTV CG 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/815.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTVCG1_RAID/index-${start}-${duration}.m3u8?ch_id=815&token=722c5658993f3b43b017a5109ecff831",RTV CG 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/294?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1442" tvg-name="RTV CG 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1442.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTVCG2_RAID/index-${start}-${duration}.m3u8?ch_id=1442&token=88f24a2f95f8e9a889adfbe6dfaf0d67",RTV CG 2
+#EXTINF:-1 tvg-id="1442" tvg-name="RTV CG 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1442.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTVCG2_RAID/index-${start}-${duration}.m3u8?ch_id=1442&token=ff97ee6681195e4293365c27e84bc238",RTV CG 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/59?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1167" tvg-name="RTV CG 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1167.png" group-title="CRNOGORSKI",RTV CG 3
@@ -608,16 +608,16 @@ http://auth.ddstream.info/validation/1739?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="650" tvg-name="RTCG SAT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtcgsat.png" group-title="CRNOGORSKI",RTCG SAT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/421?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1564" tvg-name="PRVA CG" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1564.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_PRVA_CG_RAID/index-${start}-${duration}.m3u8?ch_id=1564&token=2734dce16884856152373fc5ef3d9e38",PRVA CG
+#EXTINF:-1 tvg-id="1564" tvg-name="PRVA CG" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1564.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_PRVA_CG_RAID/index-${start}-${duration}.m3u8?ch_id=1564&token=60b867f5fa17adeb57ca3bec9f761372",PRVA CG
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1261?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="724" tvg-name="GRADSKA TV CG" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/724.jpg" group-title="CRNOGORSKI",GRADSKA TV CG
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/406?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="904" tvg-name="TV NOVA M" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/904.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_TV_NOVA_M_RAID/index-${start}-${duration}.m3u8?ch_id=904&token=285319189ac83fd8e9b4f8ece59a37a2",TV NOVA M
+#EXTINF:-1 tvg-id="904" tvg-name="TV NOVA M" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/904.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_TV_NOVA_M_RAID/index-${start}-${duration}.m3u8?ch_id=904&token=84c0ec6c0bd02921ce3bca5f5e2edd48",TV NOVA M
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1502?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1209" tvg-name="TV VIJESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1209.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_TV_Vijesti_RAID/index-${start}-${duration}.m3u8?ch_id=1209&token=258d287d85956e47d85343aabd5c4ce8",TV VIJESTI
+#EXTINF:-1 tvg-id="1209" tvg-name="TV VIJESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1209.png" group-title="CRNOGORSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_TV_Vijesti_RAID/index-${start}-${duration}.m3u8?ch_id=1209&token=812e08082fa0f8d990842a2ffd7e8f1a",TV VIJESTI
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/82?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="956" tvg-name="ADRIA TV CG" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/956.jpg" group-title="CRNOGORSKI",ADRIA TV CG
@@ -683,13 +683,13 @@ http://auth.ddstream.info/validation/2432?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1307" tvg-name="BLAGOSLOV TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1307.png" group-title="CRNOGORSKI",BLAGOSLOV TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1541?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1381" tvg-name="ARENA 1 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1381.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena1premium/index-${start}-${duration}.m3u8?ch_id=1381&token=52b2fbc6f3087860d597ce86317fde9e",ARENA 1 PREMIUM HD
+#EXTINF:-1 tvg-id="1381" tvg-name="ARENA 1 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1381.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena1premium/index-${start}-${duration}.m3u8?ch_id=1381&token=1eaab6fed516ea55ceccce13ccb0a610",ARENA 1 PREMIUM HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1835?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1382" tvg-name="ARENA 2 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1382.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena2premium/index-${start}-${duration}.m3u8?ch_id=1382&token=115f28d063a383e3bdcffdc6ecfbe8bc",ARENA 2 PREMIUM HD
+#EXTINF:-1 tvg-id="1382" tvg-name="ARENA 2 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1382.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena2premium/index-${start}-${duration}.m3u8?ch_id=1382&token=cd51ecb6e44bf458d588d1da8018ea0f",ARENA 2 PREMIUM HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/975?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1383" tvg-name="ARENA 3 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1383.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena3premium/index-${start}-${duration}.m3u8?ch_id=1383&token=69675937f249c9bf5b75bba88bdb8a0e",ARENA 3 PREMIUM HD
+#EXTINF:-1 tvg-id="1383" tvg-name="ARENA 3 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1383.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_arena3premium/index-${start}-${duration}.m3u8?ch_id=1383&token=97758b95de87ed4e2f40bfaf392d5a30",ARENA 3 PREMIUM HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/976?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2127" tvg-name="ARENA 4 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2127.png" group-title="SPORTSKI",ARENA 4 PREMIUM HD
@@ -698,19 +698,19 @@ http://auth.ddstream.info/validation/1976?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2128" tvg-name="ARENA 5 PREMIUM HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2128.png" group-title="SPORTSKI",ARENA 5 PREMIUM HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1977?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="2129" tvg-name="ARENA ADRENALIN HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2129.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Arena_Adrenalin/index-${start}-${duration}.m3u8?ch_id=2129&token=ada81bad886fa68e35ffc01c51ecf235",ARENA ADRENALIN HD
+#EXTINF:-1 tvg-id="2129" tvg-name="ARENA ADRENALIN HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2129.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Arena_Adrenalin/index-${start}-${duration}.m3u8?ch_id=2129&token=039a967ef24265bab6a8832dd6253116",ARENA ADRENALIN HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1978?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2130" tvg-name="ARENA TENIS HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2130.png" group-title="SPORTSKI",ARENA TENIS HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1979?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="888" tvg-name="ARENA SPORT 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport1.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport1srb_RAID/index-${start}-${duration}.m3u8?ch_id=888&token=4fba30773ab949bb26ca3450d33999a9",ARENA SPORT 1 HD
+#EXTINF:-1 tvg-id="888" tvg-name="ARENA SPORT 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport1.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport1srb_RAID/index-${start}-${duration}.m3u8?ch_id=888&token=39644255f81fb9a62b22323bf00bfea2",ARENA SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/4?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="712" tvg-name="ARENA SPORT 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport2.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport2srb_RAID/index-${start}-${duration}.m3u8?ch_id=712&token=cf4ea80b777085c920fa72792fc2b89b",ARENA SPORT 2 HD
+#EXTINF:-1 tvg-id="712" tvg-name="ARENA SPORT 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport2.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport2srb_RAID/index-${start}-${duration}.m3u8?ch_id=712&token=3d821c4dd8463113ac85be6f11461833",ARENA SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/5?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="784" tvg-name="ARENA SPORT 3 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport3.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport3srb_RAID/index-${start}-${duration}.m3u8?ch_id=784&token=b0f18d47db107b85762ffb51747bb49b",ARENA SPORT 3 HD
+#EXTINF:-1 tvg-id="784" tvg-name="ARENA SPORT 3 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport3.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport3srb_RAID/index-${start}-${duration}.m3u8?ch_id=784&token=2c4a4decf40b12bce51c37a928767d73",ARENA SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/6?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1384" tvg-name="ARENA SPORT 4 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1384.png" group-title="SPORTSKI",ARENA SPORT 4 HD
@@ -761,13 +761,13 @@ http://auth.ddstream.info/validation/2008?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1908" tvg-name="ARENA SPORT PREMIUM 3 BIH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1908.png" group-title="SPORTSKI",ARENA SPORT PREMIUM 3 BIH
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/2009?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1900" tvg-name="MAX SPORT 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1900.png" group-title="SPORTSKI",MAX SPORT 1 HD
+#EXTINF:-1 tvg-id="1900" tvg-name="MAX SPORT 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1900.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_maxsport1/index-${start}-${duration}.m3u8?ch_id=1900&token=5526fb70842bdd06eaa1128c5f5d8de7",MAX SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/547?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1866" tvg-name="MAX SPORT 1 FULLHD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1866.png" group-title="SPORTSKI",MAX SPORT 1 FULLHD *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/2010?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1867" tvg-name="MAX SPORT 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1867.png" group-title="SPORTSKI",MAX SPORT 2 HD
+#EXTINF:-1 tvg-id="1867" tvg-name="MAX SPORT 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1867.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_maxsport2/index-${start}-${duration}.m3u8?ch_id=1867&token=83e4c0b2b3b3d86e6922844d299fe45b",MAX SPORT 2 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/548?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2123" tvg-name="MAX SPORT 3 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2123.png" group-title="SPORTSKI",MAX SPORT 3 HD
@@ -779,22 +779,22 @@ http://auth.ddstream.info/validation/1827?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1840" tvg-name="ARENA SPORT 1 FULLHD HR *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="SPORTSKI",ARENA SPORT 1 FULLHD HR *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1353?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="858" tvg-name="ARENA SPORT HD 1 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport1hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport1hr_RAID/index-${start}-${duration}.m3u8?ch_id=858&token=6ab6d7cbf3355c5894cf5fb493b72b72",ARENA SPORT HD 1 HR
+#EXTINF:-1 tvg-id="858" tvg-name="ARENA SPORT HD 1 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arenasport1hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport1hr_RAID/index-${start}-${duration}.m3u8?ch_id=858&token=ccefc38740ade098cac33c7ab2d3312c",ARENA SPORT HD 1 HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/583?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1091" tvg-name="ARENA SPORT 2 FULLHD HR *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1091.png" group-title="SPORTSKI",ARENA SPORT 2 FULLHD HR *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1787?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="720" tvg-name="ARENA SPORT HD 2 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena2hrhd.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport2hr/index-${start}-${duration}.m3u8?ch_id=720&token=b7f5c1ff5f8928549319a29150166082",ARENA SPORT HD 2 HR
+#EXTINF:-1 tvg-id="720" tvg-name="ARENA SPORT HD 2 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena2hrhd.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport2hr/index-${start}-${duration}.m3u8?ch_id=720&token=fe1cb268843f0cd69df3697f04c6ee06",ARENA SPORT HD 2 HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/584?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1805" tvg-name="ARENA SPORT 3 FULLHD HR *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1805.png" group-title="SPORTSKI",ARENA SPORT 3 FULLHD HR *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1781?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="823" tvg-name="ARENA SPORT HD 3 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena3hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport3hr_RAID/index-${start}-${duration}.m3u8?ch_id=823&token=781c9fb953f56a009018f7ffdeac2b08",ARENA SPORT HD 3 HR
+#EXTINF:-1 tvg-id="823" tvg-name="ARENA SPORT HD 3 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena3hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport3hr_RAID/index-${start}-${duration}.m3u8?ch_id=823&token=10ab2334442b1e694ec19d2e5a8adf82",ARENA SPORT HD 3 HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/585?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="789" tvg-name="ARENA SPORT HD 4 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena4hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport4hr_RAID/index-${start}-${duration}.m3u8?ch_id=789&token=093ff8387e7114bc6ea91d5a3dfae390",ARENA SPORT HD 4 HR
+#EXTINF:-1 tvg-id="789" tvg-name="ARENA SPORT HD 4 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/arena4hr.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_arenasport4hr_RAID/index-${start}-${duration}.m3u8?ch_id=789&token=17367caac00e4ae54fae7078162ece35",ARENA SPORT HD 4 HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/586?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="970" tvg-name="ARENA SPORT HD 5 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/970.png" group-title="SPORTSKI",ARENA SPORT HD 5 HR
@@ -815,7 +815,7 @@ http://auth.ddstream.info/validation/1798?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1587" tvg-name="ARENA SPORT HD 10 HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1587.png" group-title="SPORTSKI",ARENA SPORT HD 10 HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1495?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1846" tvg-name="ARENA FIGHT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1846.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Arena_Fight_RAID/index-${start}-${duration}.m3u8?ch_id=1846&token=e4faf065d05ea63412f05be604aeaf83",ARENA FIGHT
+#EXTINF:-1 tvg-id="1846" tvg-name="ARENA FIGHT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1846.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Arena_Fight_RAID/index-${start}-${duration}.m3u8?ch_id=1846&token=5afb4b97f8efaec9d60189a6d7315c8d",ARENA FIGHT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1494?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1847" tvg-name="ARENA ESPORT" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1847.png" group-title="SPORTSKI",ARENA ESPORT
@@ -824,13 +824,13 @@ http://auth.ddstream.info/validation/425?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1804" tvg-name="SPORT KLUB 1 HR FULLHD *HEVC*" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1804.png" group-title="SPORTSKI",SPORT KLUB 1 HR FULLHD *HEVC*
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1671?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1774" tvg-name="SPORT KLUB 1 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1774.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_1_hr_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1774&token=d342ae5194cd668475a1d939a05fc97d",SPORT KLUB 1 HD HR
+#EXTINF:-1 tvg-id="1774" tvg-name="SPORT KLUB 1 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1774.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_1_hr_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1774&token=efb468ebc1d4551afdff9e95018eeeb6",SPORT KLUB 1 HD HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1671?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1775" tvg-name="SPORT KLUB 2 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1775.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_2_hr_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1775&token=67dfd0ecfe132ae454f053d2b095efd7",SPORT KLUB 2 HD HR
+#EXTINF:-1 tvg-id="1775" tvg-name="SPORT KLUB 2 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1775.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_2_hr_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1775&token=f6750c75f24fdf3bab405b53da059610",SPORT KLUB 2 HD HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1672?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1776" tvg-name="SPORT KLUB 3 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1776.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_3_hr_art5/index-${start}-${duration}.m3u8?ch_id=1776&token=392803836e2bdc0587de90e32cbb9fca",SPORT KLUB 3 HD HR
+#EXTINF:-1 tvg-id="1776" tvg-name="SPORT KLUB 3 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1776.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sportklub_3_hr_art5/index-${start}-${duration}.m3u8?ch_id=1776&token=f2eba65b60f754cb92fe12404b53ef13",SPORT KLUB 3 HD HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1673?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2066" tvg-name="SPORT KLUB 4 HD HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2066.jpg" group-title="SPORTSKI",SPORT KLUB 4 HD HR
@@ -881,7 +881,7 @@ http://auth.ddstream.info/validation/1993?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1461" tvg-name="EUROSPORT 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1461.jpg" group-title="SPORTSKI",EUROSPORT 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1171?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="729" tvg-name="EUROSPORT 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/esp2.png" group-title="SPORTSKI",EUROSPORT 2
+#EXTINF:-1 tvg-id="729" tvg-name="EUROSPORT 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/esp2.png" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_eurosport2_RAID/index-${start}-${duration}.m3u8?ch_id=729&token=9c2c8cd4907f16bb82689eb957fb8de2",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/105?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1796" tvg-name="ZVEZDA TV HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1796.png" group-title="SPORTSKI",ZVEZDA TV HD
@@ -917,7 +917,7 @@ http://auth.ddstream.info/validation/1347?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1769" tvg-name="AUTO MOTOR UND SPORT TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1769.png" group-title="SPORTSKI",AUTO MOTOR UND SPORT TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1211?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1377" tvg-name="EUROSPORT1 DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1377.jpg" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_eurosportde_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1377&token=408e66d665f413a8eb6d28de255b38d8",EUROSPORT1 DE
+#EXTINF:-1 tvg-id="1377" tvg-name="EUROSPORT1 DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1377.jpg" group-title="SPORTSKI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_eurosportde_art5_RAID/index-${start}-${duration}.m3u8?ch_id=1377&token=3222341afcbee286184277d7ad5df23a",EUROSPORT1 DE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1109?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="619" tvg-name="EUROSPORT 2 DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/619.jpg" group-title="SPORTSKI",EUROSPORT 2 DE
@@ -1043,13 +1043,13 @@ http://auth.ddstream.info/validation/940?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1286" tvg-name="MAX SELECT 7" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1286.png" group-title="FILM I SERIJE",MAX SELECT 7
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/902?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1670" tvg-name="MIX MOVIE 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1670.png" group-title="FILM I SERIJE",MIX MOVIE 1 HD
+#EXTINF:-1 tvg-id="1670" tvg-name="MIX MOVIE 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1670.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/Mix_Movie_1/index-${start}-${duration}.m3u8?ch_id=1670&token=da8813fdea7ad961f2c92e60f5f07e80",MIX MOVIE 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1458?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1671" tvg-name="MIX MOVIE 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1671.png" group-title="FILM I SERIJE",MIX MOVIE 2 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1459?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1672" tvg-name="MIX MOVIE 3 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1672.png" group-title="FILM I SERIJE",MIX MOVIE 3 HD
+#EXTINF:-1 tvg-id="1672" tvg-name="MIX MOVIE 3 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1672.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/Mix_Movie_3/index-${start}-${duration}.m3u8?ch_id=1672&token=f9963994e8911720ecf7beb8964f8ddc",MIX MOVIE 3 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1460?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1220" tvg-name="MIX MOVIES WESTERN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1220.png" group-title="FILM I SERIJE",MIX MOVIES WESTERN
@@ -1058,13 +1058,13 @@ http://auth.ddstream.info/validation/1587?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1739" tvg-name="MIX MOVIE ROMANCE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1739.png" group-title="FILM I SERIJE",MIX MOVIE ROMANCE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1614?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1543" tvg-name="MIX HITS MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1543.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/Mix_hits_movies/index-${start}-${duration}.m3u8?ch_id=1543&token=e90bdc011a448db40f42ec0c66f543cb",MIX HITS MOVIES
+#EXTINF:-1 tvg-id="1543" tvg-name="MIX HITS MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1543.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/Mix_hits_movies/index-${start}-${duration}.m3u8?ch_id=1543&token=6dc31db3587b6ae922f8279279734d4f",MIX HITS MOVIES
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1244?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1255" tvg-name="DIVA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1255.jpg" group-title="FILM I SERIJE",DIVA TV
+#EXTINF:-1 tvg-id="1255" tvg-name="DIVA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1255.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_DIVA_TV_RAID/index-${start}-${duration}.m3u8?ch_id=1255&token=a532c20fce80adadc6c25840ebbf6da5",DIVA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1412?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1062" tvg-name="EPIC DRAMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1062.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Epic_drama_RAID/index-${start}-${duration}.m3u8?ch_id=1062&token=57ec4e8fe41cddfffce58fcd25bf665f",EPIC DRAMA
+#EXTINF:-1 tvg-id="1062" tvg-name="EPIC DRAMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1062.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Epic_drama_RAID/index-${start}-${duration}.m3u8?ch_id=1062&token=7d10b1e26e32c8f44f9071a6f21af6d6",EPIC DRAMA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1245?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2106" tvg-name="DIZI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2106.png" group-title="FILM I SERIJE",DIZI
@@ -1091,7 +1091,7 @@ http://auth.ddstream.info/validation/1328?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2019" tvg-name="FILMBOX ARTHOUSE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2019.png" group-title="FILM I SERIJE",FILMBOX ARTHOUSE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1325?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="892" tvg-name="TV 1000" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/tv1000.png" group-title="FILM I SERIJE",TV 1000
+#EXTINF:-1 tvg-id="892" tvg-name="TV 1000" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/tv1000.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_tv1000_art5_RAID/index-${start}-${duration}.m3u8?ch_id=892&token=4ae35fd929db6a96e5d55c1bb1f24f32",TV 1000
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/11?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1321" tvg-name="NOVA SERIJE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1321.png" group-title="FILM I SERIJE",NOVA SERIJE
@@ -1100,25 +1100,25 @@ http://auth.ddstream.info/validation/108?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1424" tvg-name="NOVA CINEMA HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1424.png" group-title="FILM I SERIJE",NOVA CINEMA HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/2433?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1408" tvg-name="SUPER STAR TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1408.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Super_Star_TV_RAID/index-${start}-${duration}.m3u8?ch_id=1408&token=93e427078ce144dedcfe849402bc3988",SUPER STAR TV
+#EXTINF:-1 tvg-id="1408" tvg-name="SUPER STAR TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1408.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Super_Star_TV_RAID/index-${start}-${duration}.m3u8?ch_id=1408&token=bff0d07320972dded0876da34f0d1e96",SUPER STAR TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/989?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1271" tvg-name="SUPER STAR 2 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1271.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_startv/index-${start}-${duration}.m3u8?ch_id=1271&token=8de884621a084ee78bb58dc5b7fcffd8",SUPER STAR 2 TV
+#EXTINF:-1 tvg-id="1271" tvg-name="SUPER STAR 2 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1271.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_startv/index-${start}-${duration}.m3u8?ch_id=1271&token=598517b86eee1abe2d8cf7df2a04ed72",SUPER STAR 2 TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1540?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1037" tvg-name="SUPER STAR 3 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1037.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_super_star_3_RAID/index-${start}-${duration}.m3u8?ch_id=1037&token=1972d42b544b6ac16a55d8ef434ac629",SUPER STAR 3 TV
+#EXTINF:-1 tvg-id="1037" tvg-name="SUPER STAR 3 TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1037.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_super_star_3_RAID/index-${start}-${duration}.m3u8?ch_id=1037&token=a8ea26c715223ab9fb874c77ea67e363",SUPER STAR 3 TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/718?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="766" tvg-name="HBO ADRIA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/766.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO_RAID/index-${start}-${duration}.m3u8?ch_id=766&token=638ec91312784452ba504b2dcbeec336",HBO ADRIA
+#EXTINF:-1 tvg-id="766" tvg-name="HBO ADRIA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/766.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO_RAID/index-${start}-${duration}.m3u8?ch_id=766&token=e6f9e1f0ba4bf3e41a62d2331c9b0fdb",HBO ADRIA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/85?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="623" tvg-name="HBO 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hbocomedy.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO2_RAID/index-${start}-${duration}.m3u8?ch_id=623&token=a9faa2a369fcc0dad651787222c64f84",HBO 2
+#EXTINF:-1 tvg-id="623" tvg-name="HBO 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/hbocomedy.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO2_RAID/index-${start}-${duration}.m3u8?ch_id=623&token=aed7bdd9996828d2f9fd1d30b7f0356a",HBO 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/86?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1171" tvg-name="HBO 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1171.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO3_RAID/index-${start}-${duration}.m3u8?ch_id=1171&token=54b6787554cd5638218f8df29970f8be",HBO 3
+#EXTINF:-1 tvg-id="1171" tvg-name="HBO 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1171.jpg" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_HBO3_RAID/index-${start}-${duration}.m3u8?ch_id=1171&token=8e0290823574cc462dea837065aa7c3e",HBO 3
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/120?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="886" tvg-name="CINEMAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/cinemax.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_cinemax_art5/index-${start}-${duration}.m3u8?ch_id=886&token=d8c0f7e37a32c19808ed0baa70da48f8",CINEMAX
+#EXTINF:-1 tvg-id="886" tvg-name="CINEMAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/cinemax.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_cinemax_art5/index-${start}-${duration}.m3u8?ch_id=886&token=f704747825d6561d728e7055bc96c4b8",CINEMAX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/80?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="666" tvg-name="CINEMAX 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/cinemax2.png" group-title="FILM I SERIJE",CINEMAX 2
@@ -1142,16 +1142,16 @@ http://auth.ddstream.info/validation/1580?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1778" tvg-name="KINO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1778.png" group-title="FILM I SERIJE",KINO TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1676?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="849" tvg-name="STAR CHANNEL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/849.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_art5/index-${start}-${duration}.m3u8?ch_id=849&token=7eca86e99a047f0eade27bde658bdb18",STAR CHANNEL
+#EXTINF:-1 tvg-id="849" tvg-name="STAR CHANNEL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/849.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_art5/index-${start}-${duration}.m3u8?ch_id=849&token=de46f1e9b76650d2a86f82f9b904df39",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/39?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="893" tvg-name="STAR LIFE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/893.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_life_art5/index-${start}-${duration}.m3u8?ch_id=893&token=8435631a68214b15380cc6d08879a840",STAR LIFE
+#EXTINF:-1 tvg-id="893" tvg-name="STAR LIFE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/893.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_life_art5/index-${start}-${duration}.m3u8?ch_id=893&token=1fd67b9a6d4cf97fab75a2819424e767",STAR LIFE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/96?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="631" tvg-name="STAR CRIME" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/631.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_crime_art5/index-${start}-${duration}.m3u8?ch_id=631&token=a8019f76cd930a26a367a5af5c2a6a4d",STAR CRIME
+#EXTINF:-1 tvg-id="631" tvg-name="STAR CRIME" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/631.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_crime_art5/index-${start}-${duration}.m3u8?ch_id=631&token=2a03b42e072b4be27fee1f63e553d474",STAR CRIME
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/25?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1278" tvg-name="STAR MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1278.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_movies_art5/index-${start}-${duration}.m3u8?ch_id=1278&token=7552c21708f5189b9eb5e1ba0b965dc7",STAR MOVIES
+#EXTINF:-1 tvg-id="1278" tvg-name="STAR MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1278.png" group-title="FILM I SERIJE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_fox_movies_art5/index-${start}-${duration}.m3u8?ch_id=1278&token=37e7a26c4cd9e5cd7f3551dd4443c977",STAR MOVIES
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1006?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1848" tvg-name="PICKBOX TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1848.png" group-title="FILM I SERIJE",PICKBOX TV
@@ -1190,7 +1190,7 @@ http://auth.ddstream.info/validation/1971?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="676" tvg-name="HGTV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/676.jpg" group-title="DOKU.",HGTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/431?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="883" tvg-name="DISCOVERY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/discovery.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Discovery_RAID/index-${start}-${duration}.m3u8?ch_id=883&token=5f18db6b6186bef790ead04a5c700fd1",DISCOVERY
+#EXTINF:-1 tvg-id="883" tvg-name="DISCOVERY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/discovery.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Discovery_RAID/index-${start}-${duration}.m3u8?ch_id=883&token=d7651b6d7e77e17a06c19e3894a60cec",DISCOVERY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/128?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="821" tvg-name="DISCOVERY ID" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/821.png" group-title="DOKU.",DISCOVERY ID
@@ -1199,22 +1199,22 @@ http://auth.ddstream.info/validation/15?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="945" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/945.png" group-title="DOKU.",CRIME & INVESTIGATION
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/132?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="695" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/historyHD.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_History_RAID/index-${start}-${duration}.m3u8?ch_id=695&token=b0566ffb9b22c5221c0cb9348798e18d",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="695" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/historyHD.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_History_RAID/index-${start}-${duration}.m3u8?ch_id=695&token=f11ca16b8be1d94b13cb20ff2d951a7d",HISTORY CHANNEL HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/129?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1425" tvg-name="HISTORY 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1425.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_History2_RAID/index-${start}-${duration}.m3u8?ch_id=1425&token=b4654e9f70a6165347db9d892bdf1311",HISTORY 2
+#EXTINF:-1 tvg-id="1425" tvg-name="HISTORY 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1425.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_History2_RAID/index-${start}-${duration}.m3u8?ch_id=1425&token=ef14f5f6dada1fb8d98b35f23ce942bf",HISTORY 2
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1111?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="851" tvg-name="VIASAT HISTORY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/viasathistory.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_ViasatHistory_RAID/index-${start}-${duration}.m3u8?ch_id=851&token=9a44e30d6d58ed434635921be10e1a83",VIASAT HISTORY
+#EXTINF:-1 tvg-id="851" tvg-name="VIASAT HISTORY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/viasathistory.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_ViasatHistory_RAID/index-${start}-${duration}.m3u8?ch_id=851&token=578fcb96d02917a4d4cb5bbb729a24bf",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/41?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="901" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/901.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_NatGeo_RAID/index-${start}-${duration}.m3u8?ch_id=901&token=64ffd9d9c9f8272d62456ba315fab485",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="901" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/901.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_NatGeo_RAID/index-${start}-${duration}.m3u8?ch_id=901&token=e27c8c2ade5c458c46926ad59c20118e",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/131?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="844" tvg-name="NATGEO WILD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/natgeowild.png" group-title="DOKU.",NATGEO WILD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/130?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="735" tvg-name="ANIMAL PLANET" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/animal.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_animalplanet/index-${start}-${duration}.m3u8?ch_id=735&token=04f0459b89ba72ca807ef69afa4a3d76",ANIMAL PLANET
+#EXTINF:-1 tvg-id="735" tvg-name="ANIMAL PLANET" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/animal.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_animalplanet/index-${start}-${duration}.m3u8?ch_id=735&token=2f014d0f48fd1248a389d8b7fb49a3c8",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/14?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1662" tvg-name="BBC EARTH" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1662.png" group-title="DOKU.",BBC EARTH
@@ -1241,7 +1241,7 @@ http://auth.ddstream.info/validation/907?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="661" tvg-name="AGRO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/661.png" group-title="DOKU.",AGRO TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1396?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="630" tvg-name="24 KITCHEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/24.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_24_kitchen/index-${start}-${duration}.m3u8?ch_id=630&token=aa32ec59355f1d01d7244412e532b17a",24 KITCHEN
+#EXTINF:-1 tvg-id="630" tvg-name="24 KITCHEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/24.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_24_kitchen/index-${start}-${duration}.m3u8?ch_id=630&token=97561f17ce2845a2080e6a0bcb37711d",24 KITCHEN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/13?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1063" tvg-name="KITCHEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1063.jpg" group-title="DOKU.",KITCHEN
@@ -1259,7 +1259,7 @@ http://auth.ddstream.info/validation/313?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1584" tvg-name="LUXE TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1584.png" group-title="DOKU.",LUXE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1679?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="656" tvg-name="LOV I RIBOLOV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/loviribolov.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Lov_i_Ribolov_RAID/index-${start}-${duration}.m3u8?ch_id=656&token=eaf4cdd8975e969f5a4137d754c388c0",LOV I RIBOLOV
+#EXTINF:-1 tvg-id="656" tvg-name="LOV I RIBOLOV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/loviribolov.png" group-title="DOKU." catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_Lov_i_Ribolov_RAID/index-${start}-${duration}.m3u8?ch_id=656&token=8cd0f562701d81d17ab0d368bd997e76",LOV I RIBOLOV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/414?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1508" tvg-name="KANAL LOV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1508.png" group-title="DOKU.",KANAL LOV
@@ -1271,7 +1271,7 @@ http://auth.ddstream.info/validation/544?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1583" tvg-name="FISHING TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1583.jpg" group-title="DOKU.",FISHING TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1230?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="2054" tvg-name="PINK TV ." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2054.png" group-title="PINK MEDIA",PINK TV .
+#EXTINF:-1 tvg-id="2054" tvg-name="PINK TV ." tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2054.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_pinktv_RAID/index-${start}-${duration}.m3u8?ch_id=2054&token=1420f6e2c630dbc288c38e5285172cca",PINK TV .
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/12?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1905" tvg-name="PINK ZADRUGA 1   HLS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1905.png" group-title="PINK MEDIA",PINK ZADRUGA 1   HLS
@@ -1292,70 +1292,70 @@ http://auth.ddstream.info/validation/126?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="761" tvg-name="PINK 2 RED" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink2.png" group-title="PINK MEDIA",PINK 2 RED
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1416?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="778" tvg-name="PINK VESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink3.png" group-title="PINK MEDIA",PINK VESTI
+#EXTINF:-1 tvg-id="778" tvg-name="PINK VESTI" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink3.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_3_art5/index-${start}-${duration}.m3u8?ch_id=778&token=626501e93567145aa614d38d8012a6ef",PINK VESTI
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/20?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="757" tvg-name="PINK PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkplus.png" group-title="PINK MEDIA",PINK PLUS
+#EXTINF:-1 tvg-id="757" tvg-name="PINK PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkplus.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_plus_art5/index-${start}-${duration}.m3u8?ch_id=757&token=6fb61ff9b8b2ee2062e4757be799983e",PINK PLUS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/35?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="696" tvg-name="PINK EXTRA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkextra.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_extra_art5/index-${start}-${duration}.m3u8?ch_id=696&token=b54913bb32068525d4bbfaed9a55cba5",PINK EXTRA
+#EXTINF:-1 tvg-id="696" tvg-name="PINK EXTRA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkextra.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_extra_art5/index-${start}-${duration}.m3u8?ch_id=696&token=2078fa61b706830be673b535863e0569",PINK EXTRA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/34?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="889" tvg-name="PINK WORLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkworld.png" group-title="PINK MEDIA",PINK WORLD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/123?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="793" tvg-name="PINK PREMIUM" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkpremium.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_premium_art5/index-${start}-${duration}.m3u8?ch_id=793&token=5a9f903851999b24321465121a355643",PINK PREMIUM
+#EXTINF:-1 tvg-id="793" tvg-name="PINK PREMIUM" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkpremium.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_premium_art5/index-${start}-${duration}.m3u8?ch_id=793&token=7b05bf354065f527cf89d5fd0d10a226",PINK PREMIUM
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/87?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="777" tvg-name="PINK MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA",PINK MOVIES
+#EXTINF:-1 tvg-id="777" tvg-name="PINK MOVIES" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_movies_art5/index-${start}-${duration}.m3u8?ch_id=777&token=c9e69c8fb7a8a143cf05c373277c2fe5",PINK MOVIES
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/491?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="635" tvg-name="PINK FILM" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkfilm.png" group-title="PINK MEDIA",PINK FILM
+#EXTINF:-1 tvg-id="635" tvg-name="PINK FILM" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkfilm.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_film_art5/index-${start}-${duration}.m3u8?ch_id=635&token=7ed962a16118ae811d3aead84dd849d5",PINK FILM
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/9?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="841" tvg-name="PINK COMEDY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkcomedy.png" group-title="PINK MEDIA",PINK COMEDY
+#EXTINF:-1 tvg-id="841" tvg-name="PINK COMEDY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkcomedy.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_comedy_art5/index-${start}-${duration}.m3u8?ch_id=841&token=2b3c5ad91a9e3e9cba45556818af0d35",PINK COMEDY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/28?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1189" tvg-name="PINK FAMILY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkkids.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_family_art5/index-${start}-${duration}.m3u8?ch_id=1189&token=64323b21680a005070ccca9f0665b694",PINK FAMILY
+#EXTINF:-1 tvg-id="1189" tvg-name="PINK FAMILY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkkids.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_family_art5/index-${start}-${duration}.m3u8?ch_id=1189&token=ee47aaa7c0f3de9796b27b97049946b4",PINK FAMILY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1387?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="639" tvg-name="PINK CRIME  MISTERY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkaction3.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_crime_art5/index-${start}-${duration}.m3u8?ch_id=639&token=2bcd0c4e7bfab58b2d17f141e7ed47a5",PINK CRIME  MISTERY
+#EXTINF:-1 tvg-id="639" tvg-name="PINK CRIME  MISTERY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkaction3.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_crime_art5/index-${start}-${duration}.m3u8?ch_id=639&token=514c8cd7c750c35f97ebc6e8feefdc8b",PINK CRIME  MISTERY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/115?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1231" tvg-name="PINK ACTION" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA",PINK ACTION
+#EXTINF:-1 tvg-id="1231" tvg-name="PINK ACTION" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_action_art5/index-${start}-${duration}.m3u8?ch_id=1231&token=d98018c3fdf3b4b8d8346b1730f9b141",PINK ACTION
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/379?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="835" tvg-name="PINK THRILLER" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkaction2.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_thriller_art5/index-${start}-${duration}.m3u8?ch_id=835&token=316425e9b7a61e1e082e8061af0fb95c",PINK THRILLER
+#EXTINF:-1 tvg-id="835" tvg-name="PINK THRILLER" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkaction2.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_thriller_art5/index-${start}-${duration}.m3u8?ch_id=835&token=ded145c65271187dbe13549095276e8a",PINK THRILLER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/114?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="769" tvg-name="PINK ROMANCE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkmovies2.png" group-title="PINK MEDIA",PINK ROMANCE
+#EXTINF:-1 tvg-id="769" tvg-name="PINK ROMANCE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkmovies2.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_romance_art5/index-${start}-${duration}.m3u8?ch_id=769&token=66fc337adab176e739d613dfd5d509df",PINK ROMANCE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/116?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="662" tvg-name="PINK SCI-FI FANTASY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA",PINK SCI-FI FANTASY
+#EXTINF:-1 tvg-id="662" tvg-name="PINK SCI-FI FANTASY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pink.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_scifi_art5/index-${start}-${duration}.m3u8?ch_id=662&token=4cd41ffb8c8a8e9a36d18434af0d663b",PINK SCI-FI FANTASY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/492?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="730" tvg-name="PINK WORLD CINEMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/730.jpg" group-title="PINK MEDIA",PINK WORLD CINEMA
+#EXTINF:-1 tvg-id="730" tvg-name="PINK WORLD CINEMA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/730.jpg" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_world_cinema_art5/index-${start}-${duration}.m3u8?ch_id=730&token=8c89b5699b2978b314c677d6939f3661",PINK WORLD CINEMA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/459?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="652" tvg-name="PINK SERIJE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/652.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_serije_art5/index-${start}-${duration}.m3u8?ch_id=652&token=a6030b80f1138f36d307bd023b7f4cf1",PINK SERIJE
+#EXTINF:-1 tvg-id="652" tvg-name="PINK SERIJE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/652.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_serije_art5/index-${start}-${duration}.m3u8?ch_id=652&token=c44e7f9b8920a4065876a9407476a5de",PINK SERIJE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/458?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="746" tvg-name="PINK PEDIA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkpedia.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_pedia_art5/index-${start}-${duration}.m3u8?ch_id=746&token=77615f5f2035f6d6b458554527e5e735",PINK PEDIA
+#EXTINF:-1 tvg-id="746" tvg-name="PINK PEDIA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkpedia.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_pedia_art5/index-${start}-${duration}.m3u8?ch_id=746&token=0715462504e91217bbe0874d57102693",PINK PEDIA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/22?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="794" tvg-name="PINK WESTERN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkwestern.png" group-title="PINK MEDIA",PINK WESTERN
+#EXTINF:-1 tvg-id="794" tvg-name="PINK WESTERN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkwestern.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_western_art5/index-${start}-${duration}.m3u8?ch_id=794&token=cc1c446e00663f64538c7a82048d5d20",PINK WESTERN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/88?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="763" tvg-name="PINK CLASSIC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkclasik.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_classic_art5/index-${start}-${duration}.m3u8?ch_id=763&token=7c6273bd873e0b1ca0660d703cddc033",PINK CLASSIC
+#EXTINF:-1 tvg-id="763" tvg-name="PINK CLASSIC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkclasik.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_classic_art5/index-${start}-${duration}.m3u8?ch_id=763&token=f6d4da56291ae815e1c76be3cf694bde",PINK CLASSIC
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/119?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="833" tvg-name="PINK HORROR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkhoror.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_horror_art5/index-${start}-${duration}.m3u8?ch_id=833&token=389fe011d7b72eca71633b7468613a17",PINK HORROR
+#EXTINF:-1 tvg-id="833" tvg-name="PINK HORROR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkhoror.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_horror_art5/index-${start}-${duration}.m3u8?ch_id=833&token=fd93e2c921d738842e89ac20736e9418",PINK HORROR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/118?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="890" tvg-name="PINK SOAP" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinksoap.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_soap_art5/index-${start}-${duration}.m3u8?ch_id=890&token=1e6b7fc65cfa4939373131326db5cf2d",PINK SOAP
+#EXTINF:-1 tvg-id="890" tvg-name="PINK SOAP" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinksoap.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_soap_art5/index-${start}-${duration}.m3u8?ch_id=890&token=016d9014ceeff6906b8440dbea7c7c2c",PINK SOAP
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/122?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="698" tvg-name="PINK REALITY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkreality.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_reality_art5/index-${start}-${duration}.m3u8?ch_id=698&token=29f7a909a5a9bb11154a4d4c22bff465",PINK REALITY
+#EXTINF:-1 tvg-id="698" tvg-name="PINK REALITY" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkreality.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_reality_art5/index-${start}-${duration}.m3u8?ch_id=698&token=1e93186b2fcad49c6b21dd4a493ce0fb",PINK REALITY
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/121?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="719" tvg-name="PINK STYLE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkstyle.png" group-title="PINK MEDIA",PINK STYLE
@@ -1364,22 +1364,22 @@ http://auth.ddstream.info/validation/125?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1703" tvg-name="PINK LOL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1703.png" group-title="PINK MEDIA",PINK LOL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1566?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="847" tvg-name="PINK ZABAVA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkzabava.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_zabava_art5/index-${start}-${duration}.m3u8?ch_id=847&token=2fa3f3f7e350ada551cdd4b40f1bb3b7",PINK ZABAVA
+#EXTINF:-1 tvg-id="847" tvg-name="PINK ZABAVA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkzabava.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_zabava_art5/index-${start}-${duration}.m3u8?ch_id=847&token=35370550cfa39210d2d87b5c39ce22dc",PINK ZABAVA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/124?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1051" tvg-name="PINK HA HA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1051.png" group-title="PINK MEDIA",PINK HA HA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/17?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="756" tvg-name="PINK KUVAR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/756.jpg" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_kuvar_art5/index-${start}-${duration}.m3u8?ch_id=756&token=3337e32dfd19977743857c7a0cd1b04f",PINK KUVAR
+#EXTINF:-1 tvg-id="756" tvg-name="PINK KUVAR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/756.jpg" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_kuvar_art5/index-${start}-${duration}.m3u8?ch_id=756&token=ba7bcd7525daa9cd7bd9caa7445a4038",PINK KUVAR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/461?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="715" tvg-name="PINK FASHION" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pinkfashion.png" group-title="PINK MEDIA",PINK FASHION
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/127?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="749" tvg-name="PINK SHOW" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/749.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_show_art5/index-${start}-${duration}.m3u8?ch_id=749&token=60ea69ed5c648cb1997df3bbf1f86ccd",PINK SHOW
+#EXTINF:-1 tvg-id="749" tvg-name="PINK SHOW" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/749.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_show_art5/index-${start}-${duration}.m3u8?ch_id=749&token=e34d1d20ca079cfd8d47ea31f9dcfc37",PINK SHOW
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/460?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="687" tvg-name="PINK SUPER KIDS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/687.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_superkids_art5/index-${start}-${duration}.m3u8?ch_id=687&token=ff2545dcfc993945ebe8de693c50a4b1",PINK SUPER KIDS
+#EXTINF:-1 tvg-id="687" tvg-name="PINK SUPER KIDS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/687.png" group-title="PINK MEDIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pink_superkids_art5/index-${start}-${duration}.m3u8?ch_id=687&token=6474d67cc219bf21efc39e072afc9b9b",PINK SUPER KIDS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/462?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="891" tvg-name="PINK MUSIC" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/891.jpg" group-title="PINK MEDIA",PINK MUSIC
@@ -1529,19 +1529,19 @@ http://auth.ddstream.info/validation/1293?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1870" tvg-name="KAZBUKA TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="DJECJI",KAZBUKA TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1920?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="832" tvg-name="RTL KOCKICA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlkockica.png" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTL_Kockica_RAID/index-${start}-${duration}.m3u8?ch_id=832&token=8d5ba1dfb669b1a4c4c1a5c78620665c",RTL KOCKICA
+#EXTINF:-1 tvg-id="832" tvg-name="RTL KOCKICA" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlkockica.png" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTL_Kockica_RAID/index-${start}-${duration}.m3u8?ch_id=832&token=4f73b0b006643f481d9d79bd7fc36bff",RTL KOCKICA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/71?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1696" tvg-name="NICKELODEON SR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1696.png" group-title="DJECJI",NICKELODEON SR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1561?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="869" tvg-name="NICKELODEON HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/nickelodeon.png" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_nickelodeon_HR_RAID/index-${start}-${duration}.m3u8?ch_id=869&token=aac36234c115caf99ca696bf220b1527",NICKELODEON HR
+#EXTINF:-1 tvg-id="869" tvg-name="NICKELODEON HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/nickelodeon.png" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_nickelodeon_HR_RAID/index-${start}-${duration}.m3u8?ch_id=869&token=ae53e1b89947a40645c9437e07092082",NICKELODEON HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/280?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1697" tvg-name="NICK JUNIOR SR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1697.jpg" group-title="DJECJI",NICK JUNIOR SR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1562?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1667" tvg-name="NICK JUNIOR HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1667.jpg" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_nick_junior_HR_RAID/index-${start}-${duration}.m3u8?ch_id=1667&token=7d60b4ce9d1d06cebad005d226c5ff30",NICK JUNIOR HR
+#EXTINF:-1 tvg-id="1667" tvg-name="NICK JUNIOR HR" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1667.jpg" group-title="DJECJI" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_nick_junior_HR_RAID/index-${start}-${duration}.m3u8?ch_id=1667&token=4f4db159d2ce190e8fc60468e9ad189e",NICK JUNIOR HR
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1394?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="872" tvg-name="CARTOONITO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/boom.png" group-title="DJECJI",CARTOONITO
@@ -1571,10 +1571,10 @@ http://auth.ddstream.info/validation/1663?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1517" tvg-name="1NFO KANAL " tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1517.png" group-title="DEUTSCHE",1NFO KANAL 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1210?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1397" tvg-name="ORF 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1397.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_orf1_RAID/index-${start}-${duration}.m3u8?ch_id=1397&token=1bf0d50f5390795b4ff1e1f6f7c21630",ORF 1 HD
+#EXTINF:-1 tvg-id="1397" tvg-name="ORF 1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1397.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_orf1_RAID/index-${start}-${duration}.m3u8?ch_id=1397&token=1c10c52f8fa733030932ad1f472b62a6",ORF 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1094?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="657" tvg-name="ORF 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/657.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_orf2_RAID/index-${start}-${duration}.m3u8?ch_id=657&token=6d931c9e990f800f025fdeea3b7bc53d",ORF 2 HD
+#EXTINF:-1 tvg-id="657" tvg-name="ORF 2 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/657.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_orf2_RAID/index-${start}-${duration}.m3u8?ch_id=657&token=bd9b8165a62844e4af1ef29c2343dd58",ORF 2 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/163?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1792" tvg-name="ORF 2 WIEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1792.png" group-title="DEUTSCHE",ORF 2 WIEN
@@ -1625,61 +1625,61 @@ http://auth.ddstream.info/validation/1297?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1612" tvg-name="PULS 4" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1612.png" group-title="DEUTSCHE",PULS 4
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1316?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="837" tvg-name="DAS ERSTE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/daserste.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_daserste_RAID/index-${start}-${duration}.m3u8?ch_id=837&token=bcfcf47a3065a19f75995794b1683cf4",DAS ERSTE
+#EXTINF:-1 tvg-id="837" tvg-name="DAS ERSTE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/daserste.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_daserste_RAID/index-${start}-${duration}.m3u8?ch_id=837&token=a01d411087525dbf11daf23995252433",DAS ERSTE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/165?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1226" tvg-name="DAS ERSTE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1226.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_daserste_RAID/index-${start}-${duration}.m3u8?ch_id=1226&token=75e21de6e55220248c9853a783987a45",DAS ERSTE HD
+#EXTINF:-1 tvg-id="1226" tvg-name="DAS ERSTE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1226.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_daserste_RAID/index-${start}-${duration}.m3u8?ch_id=1226&token=1b2a2720eb2e947f3b841dfff982dae2",DAS ERSTE HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/354?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="803" tvg-name="ZDF" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/zdf.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_zdf_RAID/index-${start}-${duration}.m3u8?ch_id=803&token=608b9e70011c4c1f0e289dace954ac22",ZDF
+#EXTINF:-1 tvg-id="803" tvg-name="ZDF" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/zdf.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_zdf_RAID/index-${start}-${duration}.m3u8?ch_id=803&token=55da453b37a6f0e83c6ccaec0cdb09eb",ZDF
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/174?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1207" tvg-name="ZDF HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1207.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_zdf_RAID/index-${start}-${duration}.m3u8?ch_id=1207&token=c06cc6b55eb46db74bc1c1782e93b685",ZDF HD
+#EXTINF:-1 tvg-id="1207" tvg-name="ZDF HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1207.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_zdf_RAID/index-${start}-${duration}.m3u8?ch_id=1207&token=6e9360ffb261e9972a1c66f34636af2e",ZDF HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1093?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="704" tvg-name="SAT.1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/sat1.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_sat1_RAID/index-${start}-${duration}.m3u8?ch_id=704&token=98b2255754b0dcc4f35e9132d6f32400",SAT.1
+#EXTINF:-1 tvg-id="704" tvg-name="SAT.1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/sat1.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_sat1_RAID/index-${start}-${duration}.m3u8?ch_id=704&token=24a99e8187621fd4a979a883064c7523",SAT.1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/173?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1370" tvg-name="SAT.1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1370.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_sat1_RAID/index-${start}-${duration}.m3u8?ch_id=1370&token=ca507b8db175e4b0e6e04be15c55dfb1",SAT.1 HD
+#EXTINF:-1 tvg-id="1370" tvg-name="SAT.1 HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1370.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_sat1_RAID/index-${start}-${duration}.m3u8?ch_id=1370&token=b8dea18071e0dcb8deb29bbb7217a451",SAT.1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/980?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1642" tvg-name="SAT.1 GOLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1642.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_sat1gold/index-${start}-${duration}.m3u8?ch_id=1642&token=e2bf19be24370c7ae948465c75b2d0f2",SAT.1 GOLD
+#EXTINF:-1 tvg-id="1642" tvg-name="SAT.1 GOLD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1642.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_sat1gold/index-${start}-${duration}.m3u8?ch_id=1642&token=c74023d6a47e94468c2870f4dc8c801f",SAT.1 GOLD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1418?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="618" tvg-name="RTL DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlde.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLde_RAID/index-${start}-${duration}.m3u8?ch_id=618&token=6a752b8334f516a95374e18a811eb3f3",RTL DE
+#EXTINF:-1 tvg-id="618" tvg-name="RTL DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtlde.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLde_RAID/index-${start}-${duration}.m3u8?ch_id=618&token=f8e38255e7111bc4a79b27be2f6eb862",RTL DE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/171?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1249" tvg-name="RTL DE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1249.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLde_RAID/index-${start}-${duration}.m3u8?ch_id=1249&token=41c55d6ea487095d7cf4259814e158f7",RTL DE HD
+#EXTINF:-1 tvg-id="1249" tvg-name="RTL DE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1249.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_RTLde_RAID/index-${start}-${duration}.m3u8?ch_id=1249&token=480dd2b7d0225e6b9060337afa212886",RTL DE HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/960?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="644" tvg-name="RTLII DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtl2de.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2de_RAID/index-${start}-${duration}.m3u8?ch_id=644&token=c2d375c0a7dd6b2d8622df2333a6aa92",RTLII DE
+#EXTINF:-1 tvg-id="644" tvg-name="RTLII DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/rtl2de.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2de_RAID/index-${start}-${duration}.m3u8?ch_id=644&token=39b2e4e09a8143954db7e569017a3a64",RTLII DE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/170?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1165" tvg-name="RTLII DE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1165.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2de_RAID/index-${start}-${duration}.m3u8?ch_id=1165&token=f1c68214542ecae59cc165665e89a3e8",RTLII DE HD
+#EXTINF:-1 tvg-id="1165" tvg-name="RTLII DE HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1165.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_rtl2de_RAID/index-${start}-${duration}.m3u8?ch_id=1165&token=253e6b3b6114ce0700161178d96eb4e5",RTLII DE HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/968?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="802" tvg-name="PROSIEBEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pro7.png" group-title="DEUTSCHE",PROSIEBEN
+#EXTINF:-1 tvg-id="802" tvg-name="PROSIEBEN" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/pro7.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_pro7_RAID/index-${start}-${duration}.m3u8?ch_id=802&token=920a46e4b2f7eb9ca98253d3080e411b",PROSIEBEN
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/175?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1248" tvg-name="PROSIEBEN  HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1248.gif" group-title="DEUTSCHE",PROSIEBEN  HD
+#EXTINF:-1 tvg-id="1248" tvg-name="PROSIEBEN  HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1248.gif" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_pro7_RAID/index-${start}-${duration}.m3u8?ch_id=1248&token=f0a5de33f2db5631c97ca01ed07fc13a",PROSIEBEN  HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/982?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="836" tvg-name="KABEL EINS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/836.gif" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kabel1_RAID/index-${start}-${duration}.m3u8?ch_id=836&token=4fab683370a4bcef3c139be8f0fa4ec0",KABEL EINS
+#EXTINF:-1 tvg-id="836" tvg-name="KABEL EINS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/836.gif" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kabel1_RAID/index-${start}-${duration}.m3u8?ch_id=836&token=ab01c5ca0212df82238e94f8392d18e0",KABEL EINS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/172?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1568" tvg-name="KABEL EINS HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1568.gif" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kabel1/index-${start}-${duration}.m3u8?ch_id=1568&token=f4eb3ac09feb3b68d5f0d3f8c4ccd62c",KABEL EINS HD
+#EXTINF:-1 tvg-id="1568" tvg-name="KABEL EINS HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1568.gif" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_kabel1/index-${start}-${duration}.m3u8?ch_id=1568&token=01d70c74909030714f0aebdeb4fcba67",KABEL EINS HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1160?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="816" tvg-name="VOX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/vox.png" group-title="DEUTSCHE",VOX
+#EXTINF:-1 tvg-id="816" tvg-name="VOX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/vox.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_vox_RAID/index-${start}-${duration}.m3u8?ch_id=816&token=905e2745ce62550262f72850c40713da",VOX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/176?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1217" tvg-name="VOX HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1217.jpg" group-title="DEUTSCHE",VOX HD
+#EXTINF:-1 tvg-id="1217" tvg-name="VOX HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1217.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_vox_RAID/index-${start}-${duration}.m3u8?ch_id=1217&token=c260a927cf36c91f1b5b3333bea561e6",VOX HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/981?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1800" tvg-name="VOXUP" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1800.png" group-title="DEUTSCHE",VOXUP
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1711?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1369" tvg-name="PRO7 MAXX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1369.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pro7maxx/index-${start}-${duration}.m3u8?ch_id=1369&token=f4ec80dae7041ec643035e0477eefb53",PRO7 MAXX
+#EXTINF:-1 tvg-id="1369" tvg-name="PRO7 MAXX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1369.jpg" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.211:8080/snimalica_pro7maxx/index-${start}-${duration}.m3u8?ch_id=1369&token=1cfa1bebf3c1de8c2a04589d6da0236a",PRO7 MAXX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/961?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1596" tvg-name="PROSIEBEN FUN HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1596.jpg" group-title="DEUTSCHE",PROSIEBEN FUN HD
@@ -1715,7 +1715,7 @@ http://auth.ddstream.info/validation/1598?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1134" tvg-name="ZDF NEO" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1134.jpg" group-title="DEUTSCHE",ZDF NEO
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1792?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="673" tvg-name="DMAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/dmax.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_dmax_RAID/index-${start}-${duration}.m3u8?ch_id=673&token=db5d8536c529de23b13c06b0acab47be",DMAX
+#EXTINF:-1 tvg-id="673" tvg-name="DMAX" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/dmax.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.103:8080/snimalica_dmax_RAID/index-${start}-${duration}.m3u8?ch_id=673&token=abbd195aedc7d06c83b51f5839d86ebc",DMAX
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/167?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="940" tvg-name="HOME UND GARTEN TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/940.jpg" group-title="DEUTSCHE",HOME UND GARTEN TV
@@ -1835,7 +1835,7 @@ http://auth.ddstream.info/validation/473?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2055" tvg-name="SUPER RTL" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/2055.png" group-title="DEUTSCHE",SUPER RTL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/157?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="1124" tvg-name="ATLANTIC HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sky_atlantic_hd/index-${start}-${duration}.m3u8?ch_id=1124&token=426688fb330d0574400b5316670a9c0c",ATLANTIC HD
+#EXTINF:-1 tvg-id="1124" tvg-name="ATLANTIC HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="DEUTSCHE" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_sky_atlantic_hd/index-${start}-${duration}.m3u8?ch_id=1124&token=b5a2b46f6fa0375561ba29126d98ad82",ATLANTIC HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/964?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="703" tvg-name="CINEMA HD" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="DEUTSCHE",CINEMA HD
@@ -1943,7 +1943,7 @@ http://auth.ddstream.info/validation/1268?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1604" tvg-name="BIBEL TV DE" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1604.png" group-title="DEUTSCHE",BIBEL TV DE
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1296?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="740" tvg-name="TVR 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/740.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_tvr1_RAID/index-${start}-${duration}.m3u8?ch_id=740&token=150059d3470d5ce9d643852fb6794cc7",TVR 1
+#EXTINF:-1 tvg-id="740" tvg-name="TVR 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/740.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_tvr1_RAID/index-${start}-${duration}.m3u8?ch_id=740&token=621c6c2ce02d8118a4a29b5f87482e56",TVR 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/392?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="614" tvg-name="TVR 2" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/614.png" group-title="ROMANIA",TVR 2
@@ -1961,7 +1961,7 @@ http://auth.ddstream.info/validation/2012?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="896" tvg-name="NATIONAL TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/national.png" group-title="ROMANIA",NATIONAL TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/259?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="903" tvg-name="ANTENA 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/antena1.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_antena_1_RAID/index-${start}-${duration}.m3u8?ch_id=903&token=7818b52cd7d680d9908ec73c4d5fce49",ANTENA 1
+#EXTINF:-1 tvg-id="903" tvg-name="ANTENA 1" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/antena1.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_antena_1_RAID/index-${start}-${duration}.m3u8?ch_id=903&token=1069a844fa2bfe7469d570c76fb63766",ANTENA 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/262?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="732" tvg-name="ANTENA 3" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/antena3.fw.png" group-title="ROMANIA",ANTENA 3
@@ -1997,7 +1997,7 @@ http://auth.ddstream.info/validation/260?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="1303" tvg-name="REALITATEA PLUS" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1303.png" group-title="ROMANIA",REALITATEA PLUS
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/1033?deviceMac=10:27:BE:0A:80:A4&smart=1
-#EXTINF:-1 tvg-id="685" tvg-name="PRO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/685.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_ProTV_RAID/index-${start}-${duration}.m3u8?ch_id=685&token=a8f6d950f30c687593b0b221bda6f418",PRO TV
+#EXTINF:-1 tvg-id="685" tvg-name="PRO TV" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/685.png" group-title="ROMANIA" catchup="default" catchup-days="7" catchup-source="http://185.66.143.104:8080/snimalica_ProTV_RAID/index-${start}-${duration}.m3u8?ch_id=685&token=a90fc2d2abbfb64f283580b44d04dbd0",PRO TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://auth.ddstream.info/validation/396?deviceMac=10:27:BE:0A:80:A4&smart=1
 #EXTINF:-1 tvg-id="2145" tvg-name="PRO ARENA (RO)" tvg-logo="http://mag.link-tv.net:88/stalker_portal/misc/logos/320/1053.png" group-title="ROMANIA",PRO ARENA (RO)
