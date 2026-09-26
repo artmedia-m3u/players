@@ -30,7 +30,7 @@ header('Content-Disposition: inline; filename="playlist.m3u"');
 $sadrzaj = file_get_contents($master_lista_putanja);
 
 // 5. Zamjena markera sa stvarnom MAC adresom korisnika
-$personalizirana_lista = str_replace("10:27:BE:0A:80:A4", $korisnik_mac, $sadrzaj);
+$personalizirana_lista = str_replace("##:##:##:##:##:##", $korisnik_mac, $sadrzaj);
 
 // 6. Ispis liste korisniku
 echo $personalizirana_lista;
